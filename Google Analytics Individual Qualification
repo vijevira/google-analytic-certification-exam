@@ -1,0 +1,677 @@
+What feature collects company-specific data such as Member Status?
+Custom Filter
+Event Tracking
+Custom Dimension
+Custom Metric
+ 
+
+To recognize users across different devices, what feature must be enabled?
+Audience Definitions
+Attribution Models
+Google Ads Linking
+User ID
+ 
+
+In Multi-Channel Funnel Reports, how are default conversions credited?
+Second to last campaign, search, or ad
+Equal credit along the conversion touchpoints
+Last campaign, search, or ad
+First campaign, search, or ad
+ 
+
+What report indicates the pages of a website where users first arrived?
+Landing Pages report
+Pages report
+Location report
+All Pages report
+ 
+
+What feature is required to send data from a web-connected device (like a point-of-sale system) to Google Analytics?
+The Measurement Protocol
+Data Import
+Browser cookies
+The Networking Protocol
+ 
+
+What is not considered a default “medium” in Google Analytics?
+referral
+google
+organic
+cpc
+ 
+
+What is the set of rules that determines how sales and conversions get credited based on touch-points in the conversion path?
+Attribution modeling
+Conversion tracking
+Channel Groupings
+Multi-Channel Funnels
+ 
+
+What data is Google Analytics Goals unable to track?
+Customer’s lifetime value
+Making a purchase
+Signing up for a newsletter
+Watching a video
+ 
+
+In Custom Reports, what must metrics and dimensions share in order to report accurately?
+a – Same view
+b – Same scope
+c – Same Custom Report
+d – Same index
+ 
+
+What is used to create Smart Goals?
+Machine-learning algorithms
+Custom Reports
+Analytics Goals
+Remarketing audience
+ 
+
+Which three campaign parameters are recommended to manually track campaigns?
+Medium, Source, and Content
+Campaign, Content, and Term
+Medium, Source, and Campaign
+Source, Content, and Term
+ 
+
+Filters cannot perform what action on collected data?
+Include data from specific subdomains
+Include shopping preferences
+Convert dynamic page URLs to readable text strings
+Exclude traffic from particular IP addresses
+ 
+
+If a user watches a video with event tracking three times in a single session, Analytics will count how many Unique Events?
+2
+6
+1
+3
+ 
+
+What scope levels available for dimensions and metrics?
+Event-level, duration-level, transaction-level, or user-level scope
+Event-level, session-level, transaction-level, or user-level scope
+Location-level, duration-level, product-level, or user-level scope
+Hit-level, session-level, product-level, or user-level scope
+ 
+
+Which assets cannot be shared in the Solutions Gallery?
+Goals
+Segments
+Custom reports
+Custom Dimensions
+ 
+
+Which Goals are available in Google Analytics?
+Destination, Event, Duration, Pages/Screens per Session
+Location, Event, Time, Users per Session
+Destination, Event, Pageview, Social
+Pageview, Event, Transaction, Social
+ 
+
+What report identifies browsers that may have had problems with a website?
+a – The Active Users report
+b – The Browser & OS report
+c – The Source/Medium report
+d – The New vs Returning report
+ 
+
+What scope would be set for a Custom Dimension that reports membership status for a customer rewards program?
+Session
+Hit
+Product
+User
+ 
+
+What is not considered a “source” in Google Analytics by default?
+email
+(direct)
+google
+googlemerchandisestore.com
+ 
+
+If a user visits a web page with an embedded video, leaves without clicking on anything, and the session times out, how will Google Analytics report the session?
+a – As an event
+b – As a click
+c – As a bounce
+d – As an interaction
+ 
+
+What is not a benefit of Google Analytics Remarketing?
+Show customized ads to customers who have previously visited your site
+Allow customers to quickly reorder an item they have previously purchased
+Create remarketing lists without making changes to your existing Analytics snippet
+Create remarketing lists based on custom segments and targets
+ 
+
+What report provides data on how specific sections of a website performed?
+Location report
+Frequency and Recency report
+Content Drilldown report
+Top Events report
+ 
+
+What criteria could not be used to create a Dynamic Remarketing audience?
+a – Users who returned an item they purchased
+b – Users who viewed a homepage
+c – Users who viewed a search result page on a website
+d – Users who viewed product-detail pages
+ 
+
+What report shows a visual representation of user interactions on a website?
+Behavior Flow report
+Landing Pages report
+Content Drilldown report
+Treemaps report
+ 
+
+A new Custom Channel Group may be applied retroactively to organize data that has been previously collected.
+True
+False
+ 
+
+When linking a Google Ads account to Google Analytics, what is not possible?
+Import Analytics Goals and transactions into Google Ads as conversions
+Adjust keyword bids in Google Ads from Google Analytics
+View Google Ads click and cost data next to site engagement data in Analytics
+Create remarketing lists in Analytics to use in Google Ads campaigns
+ 
+
+What asset is used to build a remarketing list?
+Custom Dimension
+Custom Segment
+Custom Report
+Custom Metric
+ 
+
+If the Google Merchandise Store sets up a URL goal of “/ordercomplete” and a Match Type of “Begins with”, which of the following pages on www.googlemerchandisestore.com will NOT count as a goal?
+/ordercomplete.php
+/ordercomplete/index.html
+/ordercomplete/thank_you.html
+/order/complete.php
+ 
+
+What does assigning a value to a Google Analytics Goal enable?
+Track actual revenue from conversions
+Track real-time business revenue
+Analyze a website conversion funnel
+Compare goal conversions and measure changes to a website
+ 
+
+When does a default Analytics session expire?
+When a user is inactive on a web page for more than 30 minutes
+After 30 minutes, regardless of user activity on a web page
+At noon every day
+When a user opens a new browser window
+ 
+
+What report indicates the last page users viewed before leaving a website?
+Landing Pages report
+All Pages report
+Exit Pages report
+Pages report
+ 
+
+Google Analytics cannot collect data from which systems by default?
+Offline inventory database
+Websites
+Online point-of-sale systems
+Mobile devices
+ 
+
+What would prevent data from appearing in a Custom Report?
+Too many metrics in a Custom Report
+A filter that removes all the data
+Custom Report isn’t shared with users in the same view
+Too many dimensions in a Custom Report
+ 
+
+Where should the Analytics tracking code be placed in the HTML of a webpage for data collection?
+Just after the opening <head> tag
+Just before the closing </body> tag
+Just after the opening <body> tag
+Just before the closing </head> tag
+ 
+
+Segments will not allow you to do what?
+Create subsets of sessions or users
+Permanently alter data
+Build custom Remarketing lists
+Isolate and analyze data
+ 
+
+To recognize users across different devices, what is required for User ID?
+A new Analytics account for reporting
+Google Tag Manager
+Sign-in that generates and sets unique IDs
+All of the above
+ 
+
+What channel is not included in the default Channels report?
+Direct
+Display
+Organic Search
+Device
+ 
+
+What is not a filter setting for data in views?
+Modify
+Include
+Restore
+Exclude
+ 
+
+What feature can join offline business systems data with online data collected by Google Analytics?
+Data import
+Goal tracking
+User ID
+Google Ads Linking
+ 
+
+Which reports indicate how website referrals, organic search, and ad campaigns assisted in conversions?
+Goals reports
+Acquisition reports
+Multi-Channel Funnel reports
+Ecommerce reports
+ 
+
+In Multi-Channel Funnel Reports, what channel would not be credited with a conversion?
+Paid and organic search
+Website referrals
+Social network
+Television commercials
+ 
+
+If a Destination Goal is created for a newsletter sign-up and a user completes the newsletter sign-up three times in three separate sessions, how many Goal conversions will Google Analytics count?
+3
+2
+6
+1
+ 
+
+What is a “dimension” in Google Analytics?
+An attribute of a data set that can be organized for better analysis
+The lifetime value of a user in a given date range
+A report that offers different demographic information about your audience
+A comparison of data between two date ranges
+ 
+
+What feature is required to collect the number of comments users posted to a web page?
+Custom Channel Groupings
+Calculated Metric
+Custom Dimension
+Custom Metric
+ 
+
+Which metric reports on how often a channel contributes to a conversion prior to last-click attribution?
+Primary conversion
+Second-to-last-click attribution
+Assisted conversion
+Secondary conversion
+ 
+
+What is the “Bounce Rate” in Google Analytics?
+Percentage of visits when a user landed on a website and exited without any interactions
+Number of times users returned to a website in a given time period
+Percentage of total site exits
+Percentage of sessions in which a user exits from a homepage
+ 
+
+What model represents the hierarchical structure of a Google Analytics account?
+Property > Account > View
+Account > Property > View
+View > Account > Property
+Account > View > Property
+ 
+
+To increase the speed at which Google Analytics compiles reports, what action could be taken?
+Choose “Faster response” in the sampling pulldown menu
+Apply an advanced filter to the report
+Remove any filters on the view
+Choose “Greater precision” in the sampling pulldown menu
+ 
+
+What campaign parameter is not available by default in Google Analytics ?
+utm_content
+utm_source
+utm_medium
+utm_adgroup
+Which kinds of hits does Google Analytics track?
+Pageview
+Event
+All of the above
+Transaction
+ 
+
+What metric-dimension combination is not valid?
+Avg. Time on Page / Device Category
+Sessions / Bounce rate
+Sessions / Source
+Total Events / User Type
+ 
+
+Which reports indicate how traffic arrived at a website?
+Demographics
+Geo
+All Traffic
+Behavior
+ 
+
+In views that don’t have data import enabled, Custom Dimensions values may be viewed for dates before the Custom Dimension was created.
+TRUE
+FALSE
+ 
+
+Custom Dimensions can be used as what?
+Primary dimensions in Custom Reports
+All of the above
+Secondary dimensions in Custom Reports
+Secondary dimensions in Standard reports
+ 
+
+What feature must be enabled to use Multi-Channel Funnels?
+Custom Dimensions
+Advertising Features
+Goals or Ecommerce
+In-page Analytics
+ 
+
+What data table display compares report metrics to the website average?
+Pivot
+Percentage
+Performance
+Comparison
+ 
+
+View filters are applied in what order?
+Creation date
+Random order
+Sequential order
+Alphabetical order
+ 
+
+Auto-tagging is used to collect data from what kind of traffic?
+Social media traffic
+Social media traffic
+Google Ads Campaign traffic
+Website referral traffic
+ 
+
+What report indicates where users start or exit the conversion funnel?
+Goal Flow
+Treemaps
+Cohort Analysis
+User Timings
+ 
+
+Which parameters can be included with an event hit for reporting?
+Event, Category, Action, Label
+Category, Action, Label, Unique Events
+Category, Action, Label, Value
+Category, Action, Label, Total Events
+ 
+
+What Remarketing audiences cannot be defined by default?
+Users who speak a particular language
+Users who visited a physical store
+Users who played a video on a website
+Users who visited a specific page on a website
+ 
+
+To track users and sessions across multiple domains, what first must be set up?
+Data Import
+Ad Exchange Linking
+Cross-domain tracking
+Google Ads Linking
+ 
+
+When the same default tracking code is installed on pages with different domains, what will result?
+Analytics will associate users and sessions with a single domain
+Analytics will not associate users and sessions with any domain
+Analytics will send an alert about duplicate data collection
+Analytics will associate users and sessions with their respective domains
+ 
+
+What feature would be used to collect how many times users downloaded a product catalog?
+Custom Report
+Event Tracking
+Calculated Metrics
+Custom Dimension
+ 
+
+What is a “secondary dimension” in Google Analytics?
+An additional report dimension for more specific analysis
+A dashboard widget that offers more specific analysis
+A visualization to understand the impact of data
+An additional report metric for more specific analysis
+ 
+
+When will Google Analytics be unable to identify sessions from the same user by default?
+a – When the sessions happen in the same browser on the same deviceAn additional report dimension for more specific analysis
+b – When the sessions share the same browser cookie
+c – When the sessions happen in different browsers on the same device
+d – When the sessions happen in the same browser on the same day
+ 
+
+What report shows which web pages get the most traffic and highest engagement?
+Frequency and Recency report
+Active Users report
+Engagement report
+All Pages report
+ 
+
+View filters may be applied retroactively to any data that has been processed.
+False
+True
+ 
+
+What report shows the percentage of traffic that previously visited a website?
+Behavior > Frequency and Recency report
+Interests > Affinity categories report
+All traffic > Referrals report
+Behavior > New vs returning report
+ 
+
+Once filters have been applied, what is the option to recover filtered data?
+Filtered data is not recoverable
+Data may be recovered within 10 days
+Data may be recovered within 30 days
+Data may be recovered within 5 days
+ 
+
+For autotagging, what parameter does Google Ads include in the destination URL?
+adid=
+urlid=
+utm=
+gclid=
+ 
+
+What report shows the percent of site traffic that visited previously?
+Sales Performance report
+Frequency & Recency report
+Referrals report
+New vs Returning report
+ 
+
+What report shows users who initiated sessions over 1-day, 7-day, 14-day, and 30-day periods?
+Active Users report
+User Explorer report
+Users Flow report
+Cohort Analysis report
+ 
+
+To view accurate data in a Custom Report, what action should be avoided?
+Pair metrics and dimensions of different scopes
+Use multiple dimensions together in the same report
+Create a report with Custom Metrics
+Use a Custom Dimension as a primary dimension
+ 
+
+How would a view filter be configured to include only users from Brazil and Argentina?
+Filter 1: include Brazil > Filter 2: include Argentina
+Filter 1: include Argentina > Filter 2: include Brazil
+Filter 1: include Brazil or Argentina
+Filter 1: exclude all countries except Brazil and Argentina
+ 
+
+What cannot be collected by the default Analytics tracking code?
+Device and operating system
+User’s favorite website
+Page visits
+Browser language setting
+ 
+
+Views can include website data collected before the view was created.
+FALSE
+TRUE
+ 
+
+What report shows which types of mobile devices visited a website?
+Technology > Network report
+Site Content > Landing Page report
+Mobile > Devices report
+All Traffic > Source/Medium report
+ 
+
+Within how many days can a deleted view be restored?
+25
+5
+35
+15
+ 
+
+What is not a benefit of using segments to analyze data?
+Isolate and analyze specific conversion paths using conversion segments
+Permanently modify the data in a view
+Analyze users by single or multi-session conditions
+Compare behavior metrics for groups of users like Converters vs non Converters
+ 
+
+What type of Custom Report shows a static sortable table with rows of data?
+Flat Table
+Explorer
+Map Overlay
+Pivot Table
+ 
+
+What feature is required to track customer search terms on a website?
+Enhanced Ecommerce
+Site Search
+Data Import
+Search filters
+ 
+
+What is a “metric” in Google Analytics?
+The numbers in a data set often paired with dimensions
+The dates in a date range
+A segment of data separated out in a report for comparison
+A dimension that can help analyze site performance
+ 
+
+What criteria cannot be used to create a Custom Segment?
+Ad type
+Dimensions
+Metrics
+Sequences of user actions
+ 
+
+Which default traffic source dimensions does Google Analytics report for each website visitor?
+Campaign and Ad Content
+Source and Campaign
+Source and Medium
+Campaign and Medium
+ 
+
+Which user characteristic may NOT be used to change keyword bids in Google Ads?
+time of day
+location
+device
+ad preference
+ 
+
+When does the Analytics tracking code send a pageview hit to Google Analytics?
+a – Every time a user adds an item to an online shopping cart
+b – Every time a user clicks a video on a website
+c – Every time a user searches on a website
+d – Every time a user loads a webpage with embedded tracking code
+ 
+
+What campaigns require manual tags on destination URLs for tracking?
+None of the above
+Google Ads campaigns
+Autotagged campaigns
+Email campaigns
+ 
+
+What filter would only include data from a campaign titled “Back to School” in Campaign reports?
+a – Custom Include filter with field “Page Title” and pattern “back to school”
+b – Custom Include filter with field “Campaign Name” and pattern “back to school”
+c – Custom Search and Replace filter with field “Campaign Name”, string “back to school”, and pattern “include”
+d – Predefined Include filter with “traffic to the hostname” “that are equal to” “back to school”
+ 
+
+What scope applies to Custom Metrics?
+Customer
+Session
+Hit
+User
+ 
+
+What report compares metrics based on user acquisition date over a series of weeks?
+User Explorer
+Active Users
+Users Flow
+Cohort Analysis
+ 
+
+The default session timeout duration in Google Analytics is how many minutes?
+5
+10
+30
+20
+ 
+
+What data does Google Analytics prohibit collecting?
+Product SKU(s)
+Billing city
+Purchase amount
+Personally identifable information
+ 
+
+Using a standard Google Analytics configuration, which characteristics cannot be used to create a custom segment?
+Users 25 to 34 years old who have their browser set to Spanish
+Users who engaged in a social media or email campaign
+Users who viewed a page on a website, then watched a video
+Users who are female and have children
+ 
+
+Sampling is applied to reports before segmentation.
+TRUE
+FALSE
+ 
+
+If a web page visitor clears the Analytics cookie from their browser, what will occur?
+All of the above
+Analytics will set a new browser cookie the next time a browser loads a tracked page
+Analytics will set a new unique ID the next time a browser loads a tracked page
+Analytics will not be able to associate user behavior data with past data collected
+ 
+
+Which reports require the activation of Advertising Features?
+Geo reports
+Cohort Analysis reports
+Real-time reports
+Demographics and Interests reports
+ 
+
+When does the tracking code send an event hit to Google Analytics?
+Every time a user performs an action with pageview tracking implemented
+Every time a user adds an event to their calendar
+Every time a user performs an action with event tracking implemented
+Every time a user makes a reservation
+ 
+
+Sharing a Custom Report will share the report configuration and data included in the report.
+TRUE
+FALSE
